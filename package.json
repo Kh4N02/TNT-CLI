@@ -1,0 +1,15 @@
+{
+  "name": "tnt-cmd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TNT Sports / HBO Max CLI by Kh4N_PCT — browse, fetch MPD and keys",
+  "main": "tnt_cmd.js",
+  "scripts": {
+    "start": "node tnt_cmd.js",
+    "setup": "npm install && npx playwright install chrome"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^7.0.6",
+    "playwright": "^1.52.0"
+  }
+}

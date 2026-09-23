@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+
+msgctxt "#30000"
+msgid "My List"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Enable My List"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Delete from My List"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Add to My List"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Added to My List"
+msgstr ""
